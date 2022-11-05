@@ -4,7 +4,7 @@ This repository includes my homework/project solutions for CS32 (Object-oriented
 Projects 3 and 4 were the most difficult and time-intensive, involving great use of OOP and time-efficient data structures/algorithms.
 
 Project 3: Develop all of the classes, functions, game-logic, etc. for a simple 2D videogame using OpenGL. 
-Note: I have expanded upon this project and released a playable version on itch.io which can be viewed here: https://duncand99.itch.io/super-peach-sisters
+Note: I have expanded upon this project and released a playable version on itch.io which can be viewed here: https://duncand99.itch.io/super-mario-sisters
 
 Project 4: Given a set of interface definitions, develop a "Dating App" with the following key features: 
   1. It can support a database of 100,000 members 
